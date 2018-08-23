@@ -599,9 +599,8 @@ textarea {
 # Links
 --------------------------------------------------------------*/
 a {
-	color: #333;
+	color: #0080ff;
 	text-decoration: none;
-	border-bottom: 0.2em solid transparent;
 }
 
 a#susty-back-link {
@@ -609,11 +608,11 @@ a#susty-back-link {
 }
 
 a:visited {
-	color: #333;
+	color: #0080ff;
+
 }
 
 a:hover, a:focus, a:active {
-	/*color: midnightblue;*/
 	border-bottom-style: solid;
 	border-bottom-color: inherit;
 }
@@ -912,11 +911,11 @@ article > header > h1, article > header > h2 {
 	color: #777;
 	padding-bottom: 1em;
 	text-transform: uppercase;
-	font-size: .75em;
+	font-size: .6em;
 }
 
 .entry-meta a {
-	color: #000;
+	color: #0080ff;
 }
 
 .cat-links {
